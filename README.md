@@ -6,3 +6,4 @@ Research material for ML
 - [ ] http://cs231n.github.io/transfer-learning/
 - [ ] https://en.wikipedia.org/wiki/Adversarial_machine_learning
 - [ ] https://jaypjohnson.com/2016-08-01-building-data-pipelines-with-jupyter-and-docker.html
+- [ ] http://course.fast.ai/
