@@ -12,3 +12,6 @@ Research material for ML
 #Statistics
 
 - [ ] Why squared error http://www.benkuhn.net/squared
+
+# Linux
+- [ ] https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
