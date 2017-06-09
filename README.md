@@ -8,6 +8,7 @@ Research material for ML
 - [ ] https://jaypjohnson.com/2016-08-01-building-data-pipelines-with-jupyter-and-docker.html
 - [ ] http://course.fast.ai/
 - [ ] https://arxiv.org/abs/1706.00473 Deep Learning: A Bayesian Perspective
+- [ ] http://cs231n.github.io/
 
 #Statistics
 
