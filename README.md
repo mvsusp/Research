@@ -3,6 +3,7 @@
 
 # Machine Learning Research
 Research material for ML
+- [ ] Visualzing convnets https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
 - [ ] http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html
 - [ ] https://github.com/Jack000/fontjoy
 - [ ] http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/
