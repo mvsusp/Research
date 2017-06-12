@@ -1,3 +1,6 @@
+# Machine Learning book
+- [ ] http://www.deeplearningbook.org/
+
 # Machine Learning Research
 Research material for ML
 - [ ] http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html
@@ -9,6 +12,7 @@ Research material for ML
 - [ ] http://course.fast.ai/
 - [ ] https://arxiv.org/abs/1706.00473 Deep Learning: A Bayesian Perspective
 - [ ] http://cs231n.github.io/
+- [x] http://neuralnetworksanddeeplearning.com/chap4.html
 
 #Statistics
 
