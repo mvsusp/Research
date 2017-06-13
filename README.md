@@ -14,6 +14,7 @@ Research material for ML
 - [ ] https://arxiv.org/abs/1706.00473 Deep Learning: A Bayesian Perspective
 - [ ] http://cs231n.github.io/
 - [x] http://neuralnetworksanddeeplearning.com/chap4.html
+- [x] http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
 #Statistics
 
