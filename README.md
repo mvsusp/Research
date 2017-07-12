@@ -3,6 +3,7 @@
 
 # Machine Learning Research
 Research material for ML
+- [ ] https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 - [ ] standford notes http://cs231n.github.io/
 - [ ] http://setosa.io/ev/image-kernels/
 - [ ] Visualzing convnets https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
