@@ -4,6 +4,7 @@
 # Machine Learning Research
 Research material for ML
 - [ ] https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+- [ ] https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 - [ ] standford notes http://cs231n.github.io/
 - [ ] http://setosa.io/ev/image-kernels/
 - [ ] Visualzing convnets https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
@@ -16,6 +17,7 @@ Research material for ML
 - [ ] http://course.fast.ai/
 - [ ] https://arxiv.org/abs/1706.00473 Deep Learning: A Bayesian Perspective
 - [ ] http://cs231n.github.io/
+- [ ] https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643
 - [x] http://neuralnetworksanddeeplearning.com/chap4.html
 - [x] http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
