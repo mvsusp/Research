@@ -21,6 +21,9 @@ Research material for ML
 - [x] http://neuralnetworksanddeeplearning.com/chap4.html
 - [x] http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
+Batch normalization
+- [ ] https://arxiv.org/pdf/1502.03167.pdf
+
 Layer visualization
 - [ ] Visualizing high-dimensional data using t-SNE http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 t-SNE
