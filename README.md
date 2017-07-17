@@ -23,6 +23,7 @@ Research material for ML
 
 Batch normalization
 - [ ] https://arxiv.org/pdf/1502.03167.pdf
+- [ ] https://arxiv.org/pdf/1707.00683.pdf Modulating early visual processing by language
 
 Layer visualization
 - [ ] Visualizing high-dimensional data using t-SNE http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
