@@ -28,6 +28,9 @@ t-SNE
 Reinforced learning
 - [ ] Prioritized Sweeping: Reinforcement Learning with Less Data and Less Real Time https://pdfs.semanticscholar.org/6086/ab80f6d2ba77dd7da65c3cadf8cf5fb019ae.pdf
 
+Inception applications
+- [ ] https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf cassava virus detection
+
 #Statistics
 
 - [ ] Why squared error http://www.benkuhn.net/squared
