@@ -21,6 +21,11 @@ Research material for ML
 - [x] http://neuralnetworksanddeeplearning.com/chap4.html
 - [x] http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
+Layer visualization
+- [ ] Visualizing high-dimensional data using t-SNE http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+t-SNE
+
+
 #Statistics
 
 - [ ] Why squared error http://www.benkuhn.net/squared
