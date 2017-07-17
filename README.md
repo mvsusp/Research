@@ -35,6 +35,10 @@ Reinforced learning
 Inception applications
 - [ ] https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf cassava virus detection
 
+Deep learning applications
+- [ ] https://arxiv.org/pdf/1707.01836.pdf Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks
+
+
 #Statistics
 
 - [ ] Why squared error http://www.benkuhn.net/squared
