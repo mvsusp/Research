@@ -25,6 +25,8 @@ Layer visualization
 - [ ] Visualizing high-dimensional data using t-SNE http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 t-SNE
 
+Reinforced learning
+- [ ] Prioritized Sweeping: Reinforcement Learning with Less Data and Less Real Time https://pdfs.semanticscholar.org/6086/ab80f6d2ba77dd7da65c3cadf8cf5fb019ae.pdf
 
 #Statistics
 
