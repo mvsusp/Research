@@ -1,3 +1,7 @@
+# Blogs
+http://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/
+
+
 # Machine Learning book
 - [ ] http://www.deeplearningbook.org/
 
