@@ -54,3 +54,9 @@ https://pair-code.github.io/facets/
 
 # Linux
 - [ ] https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+
+
+#Choosing the right ML model
+
+- [ ] https://blog.recast.ai/machine-learning-algorithms/
+- [ ] http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
