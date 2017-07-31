@@ -47,6 +47,9 @@ Deep learning applications
 
 - [ ] Why squared error http://www.benkuhn.net/squared
 
+# Algos
+- [ ] K - means https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf
+
 # Machine Learning tools
 
 ## visualization 
