@@ -7,6 +7,7 @@ http://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/
 
 # Machine Learning Research
 Research material for ML
+- [ ] https://arxiv.org/abs/1609.08144  Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
 - [ ] https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 - [ ] https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 - [ ] standford notes http://cs231n.github.io/
