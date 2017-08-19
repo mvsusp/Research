@@ -5,6 +5,9 @@ http://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/
 # Machine Learning book
 - [ ] http://www.deeplearningbook.org/
 
+# Geoffrey Hinton
+http://www.cs.toronto.edu/~hinton/
+
 # Machine Learning Research
 Research material for ML
 - [ ] https://arxiv.org/abs/1609.08144  Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
